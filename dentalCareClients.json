@@ -22,5 +22,17 @@
         "name": "PAUL LEE",
         "img":"https://i.ibb.co/xsVJjd8/people-5.jpg",
         "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
+    },
+    {
+        "id": 5,
+        "name": "PAUL LEE",
+        "img":"https://i.ibb.co/bP3N5mP/people-1.jpg",
+        "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
+    },
+    {
+        "id": 6,
+        "name": "PAUL LEE",
+        "img":"https://i.ibb.co/xsVJjd8/people-5.jpg",
+        "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
     }
 ]
