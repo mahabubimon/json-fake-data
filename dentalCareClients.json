@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "PAUL LEE",
+        "img":"https://i.ibb.co/pxjVfgW/people-4.jpg",
+        "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
+    },
+    {
+        "id": 2,
+        "name": "ANN CLARK",
+        "img":"https://i.ibb.co/kx709Xb/people-2.jpg",
+        "review": "Quisque posuere rhoncus erat, sit amet aliquet augue. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies. Nullam eleifend lectus a tortor interdum, non sodales."
+    },
+    {
+        "id": 3,
+        "name": "PAUL LEE",
+        "img":"https://i.ibb.co/bP3N5mP/people-1.jpg",
+        "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
+    },
+    {
+        "id": 4,
+        "name": "PAUL LEE",
+        "img":"https://i.ibb.co/xsVJjd8/people-5.jpg",
+        "review": "Nullam eleifend lectus a tortor interdum, non sodales ante vehicula. Proin consequat, at commodo. Donec eros massa, gravida ac lectus et, pharetra interdum lectus. Sed vel scelerisque quam, id fringilla ante. Vivamus sagittis velit quis dictum ultricies."
+    }
+]
