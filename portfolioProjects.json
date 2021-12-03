@@ -6,7 +6,10 @@
     "img1": "https://i.ibb.co/WGqB8qv/Screenshot-81.png",
     "img2": "https://i.ibb.co/6FCB5P7/Screenshot-82.png",
     "img3": "https://i.ibb.co/CBpHD4B/Screenshot-84.png",
-    "details": "Implemented different dashboard pages for users and admins. Admin can add and delete products and orders. Users can add and delete order. Email/password and Google login authentication implemented using Firebase. Technologies: React, Material UI, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB."
+    "details": "Implemented different dashboard pages for users and admins. Admin can add and delete products and orders. Users can add and delete order. Email/password and Google login authentication implemented using Firebase. Technologies: React, Material UI, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB.",
+    "live": "https://chasmish-hero.web.app/",
+    "frontendCode": "https://github.com/mahabubimon/chasmish-hero",
+    "backendCode": "https://github.com/mahabubimon/chasmish-hero-node"
   },
   {
     "id": 2,
@@ -15,7 +18,10 @@
     "img1": "https://i.ibb.co/WGqB8qv/Screenshot-81.png",
     "img2": "https://i.ibb.co/6FCB5P7/Screenshot-82.png",
     "img3": "https://i.ibb.co/CBpHD4B/Screenshot-84.png",
-    "details": "Implemented Node(express) server to operate CRUD operations with MongoDB. Users can place order and delete order. Users can login with Google and register with email and password. Technologies: React, React-Bootstrap, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB."
+    "details": "Implemented Node(express) server to operate CRUD operations with MongoDB. Users can place order and delete order. Users can login with Google and register with email and password. Technologies: React, React-Bootstrap, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB.",
+    "live": "https://ghurbo-tourism.web.app/",
+    "frontendCode": "https://github.com/mahabubimon/ghurbo-tourism",
+    "backendCode": "https://github.com/mahabubimon/ghurbo-tourism-node"
   },
   {
     "id": 3,
@@ -24,6 +30,8 @@
     "img1": "https://i.ibb.co/vxy46st/Screenshot-85.png",
     "img2": "https://i.ibb.co/qy0rPmL/Screenshot-86.png",
     "img3": "https://i.ibb.co/CBpHD4B/Screenshot-84.png",
-    "details": "Implemented different dashboard pages for users and admins. Admin can add and delete products and orders. Users can add and delete order. Email/password and Google login authentication implemented using Firebase. Technologies: React, Material UI, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB."
+    "details": "Implemented different dashboard pages for users and admins. Admin can add and delete products and orders. Users can add and delete order. Email/password and Google login authentication implemented using Firebase. Technologies: React, Material UI, Firebase, AxiosJS, NodeJS, ExpressJS, MongoDB.",
+    "live": "https://medicare-mi.web.app/",
+    "frontendCode": "https://github.com/mahabubimon/dental-care"
   }
 ]
